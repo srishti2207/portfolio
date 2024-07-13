@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Manual Creation -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#306998;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD43B;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#4B8BBE;}
+</style>
+<g>
+	<path class="st0" d="M60,0c11.046,0,20,8.954,20,20v20H40V20c0-11.046,8.954-20,20-20 M60,5c-8.284,0-15,6.716-15,15v15h30V20
+		C75,11.716,68.284,5,60,5 M85,20v10H95V25C95,22.239,92.761,20,90,20H85z"/>
+	<path class="st1" d="M60,120c-11.046,0-20-8.954-20-20V80h40v20c0,11.046-8.954,20-20,20 M60,115c8.284,0,15-6.716,15-15V85H45v15
+		C45,108.284,51.716,115,60,115 M35,100v-10H25v5c0,2.761,2.239,5,5,5H35z"/>
+	<path class="st2" d="M60,0c-11.046,0-20,8.954-20,20v20H20c-11.046,0-20,8.954-20,20v20h40v-5H15V60c0-8.284,6.716-15,15-15h30V20
+		C60,11.716,66.716,5,75,5 M60,5c8.284,0,15,6.716,15,15v15H45V20C45,11.716,51.716,5,60,5 M85,20v10H95V25C95,22.239,92.761,20,90,20
+		H85z M60,120c11.046,0,20-8.954,20-20V80h20c11.046,0,20-8.954,20-20V40H80v5h25v15c0,8.284-6.716,15-15,15H60v15
+		C60,108.284,68.284,115,75,115 M60,115c-8.284,0-15-6.716-15-15V85h30v15C75,108.284,68.284,115,60,115 M35,100v-10H25v5
+		c0,2.761,2.239,5,5,5H35z"/>
+</g>
+</svg>
